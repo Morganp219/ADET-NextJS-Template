@@ -1,0 +1,1 @@
+# ADET-NextJS-Template
